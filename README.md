@@ -19,9 +19,7 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=rishi-r-chetry&theme=synthwave&hide_border=true&cache_seconds=86400" alt="rishi-r-chetry's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=rishi-r-chetry&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Rishi Raj Chetry's GitHub Trophies" />
-</p>
+
 
 
 # Languages & Tools
@@ -52,11 +50,16 @@
 
 
 
-## 🔗 Connect with Me
+## 🌐 SOCIALS
 <p align="center">
   <a href="mailto:rishirajchetry10@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Rishi Raj Chetry's Email"/></a>
 </p>
 
+<br>
+<Br>
+
+<h1 align="center"> 🔰Contributions🔰 </h1>
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
